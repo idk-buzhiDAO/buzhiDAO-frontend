@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/buzhiDAO-frontend/static/css/main.c0d17956.chunk.css",
+    "main.js": "/buzhiDAO-frontend/static/js/main.a4f9b103.chunk.js",
+    "main.js.map": "/buzhiDAO-frontend/static/js/main.a4f9b103.chunk.js.map",
+    "runtime-main.js": "/buzhiDAO-frontend/static/js/runtime-main.1e15b7f5.js",
+    "runtime-main.js.map": "/buzhiDAO-frontend/static/js/runtime-main.1e15b7f5.js.map",
+    "static/js/2.201e095e.chunk.js": "/buzhiDAO-frontend/static/js/2.201e095e.chunk.js",
+    "static/js/2.201e095e.chunk.js.map": "/buzhiDAO-frontend/static/js/2.201e095e.chunk.js.map",
+    "index.html": "/buzhiDAO-frontend/index.html",
+    "static/css/main.c0d17956.chunk.css.map": "/buzhiDAO-frontend/static/css/main.c0d17956.chunk.css.map",
+    "static/js/2.201e095e.chunk.js.LICENSE.txt": "/buzhiDAO-frontend/static/js/2.201e095e.chunk.js.LICENSE.txt",
+    "static/media/Chershire_Cat.24ee16b9.jpeg": "/buzhiDAO-frontend/static/media/Chershire_Cat.24ee16b9.jpeg",
+    "static/media/style.scss": "/buzhiDAO-frontend/static/media/Montserrat-SemiBold.fa8441f3.ttf",
+    "static/media/DAI.e.849478a7.png": "/buzhiDAO-frontend/static/media/DAI.e.849478a7.png",
+    "static/media/IDK.3b70eab9.svg": "/buzhiDAO-frontend/static/media/IDK.3b70eab9.svg",
+    "static/media/discord.d78c1d63.svg": "/buzhiDAO-frontend/static/media/discord.d78c1d63.svg",
+    "static/media/github.498e6177.svg": "/buzhiDAO-frontend/static/media/github.498e6177.svg",
+    "static/media/landing-blobs-top.0af23cd1.png": "/buzhiDAO-frontend/static/media/landing-blobs-top.0af23cd1.png",
+    "static/media/sIDK.d47403e8.png": "/buzhiDAO-frontend/static/media/sIDK.d47403e8.png",
+    "static/media/settings.8496ead6.svg": "/buzhiDAO-frontend/static/media/settings.8496ead6.svg",
+    "static/media/siu-nav-header.0629e013.svg": "/buzhiDAO-frontend/static/media/siu-nav-header.0629e013.svg",
+    "static/media/telegram.190943b9.svg": "/buzhiDAO-frontend/static/media/telegram.190943b9.svg",
+    "static/media/twitter.f6e6e036.svg": "/buzhiDAO-frontend/static/media/twitter.f6e6e036.svg",
+    "static/media/wonderland-icon.0534f944.svg": "/buzhiDAO-frontend/static/media/wonderland-icon.0534f944.svg",
+    "static/media/x.00aa12f9.svg": "/buzhiDAO-frontend/static/media/x.00aa12f9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e15b7f5.js",
+    "static/js/2.201e095e.chunk.js",
+    "static/css/main.c0d17956.chunk.css",
+    "static/js/main.a4f9b103.chunk.js"
+  ]
+}
